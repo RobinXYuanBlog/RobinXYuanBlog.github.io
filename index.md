@@ -6,33 +6,57 @@ This is blog is built for maintain my personal notes.
 
 [Python Notebook](https://)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
+```
+CONTENTS
+1. Basic Python
+2. High Performance Python
+3. Algorithm
 ```
 
 ### Machine Learning
 
 ```
-# Course Notes
-## Andrew Ng Machine Learning Course
-## Washington University Machine Learning Course
+CONTENTS
+1. Course Notes
+1.1. Andrew Ng Machine Learning Course
+1.2. Washington University Machine Learning Course
 
-# Codes
+2. Codes
 
-# PDF File
+3. PDF File
 
 ```
 [Machine Learning Notebook](https://robinxyuanblog.github.io/MachineLearningNotes/)
 
 ### Ruby
-
+```
+CONTENTS
+1. Ruby Language
+2. Ruby on Rails
+```
 ### R Language
+```
+CONTENTS
+1. R Language
+2. R Projects
+```
 
 ### Data Science
 
 ### Weka
+
+### Data Mining
+
+### Spider
+
+### HTML/CSS
+
+### JavaSsript
+
+### Responsive Web Design
+
+### Android
+
+### iOS
+
+### Tableau
