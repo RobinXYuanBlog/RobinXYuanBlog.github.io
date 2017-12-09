@@ -4,7 +4,7 @@ This is blog is built for maintain my personal notes.
 
 ### Python
 
-[Python Notebook](https://)
+[Python Notebook](https://robinxyuanblog.github.io/PythonNotebook/)
 
 ```markdown
 Syntax highlighted code block
