@@ -13,8 +13,7 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-```markdown
-Syntax highlited code block
+```
 
 ### Machine Learning
 
