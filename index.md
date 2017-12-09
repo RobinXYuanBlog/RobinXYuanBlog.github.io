@@ -50,3 +50,10 @@ This is blog is built for maintain my personal notes.
 ### iOS
 
 ### Tableau
+
+### Languages
+#### French
+#### Latin
+
+[Latin Note](https://robinxyuanblog.github.io/LatinNote/)
+#### Japanese
