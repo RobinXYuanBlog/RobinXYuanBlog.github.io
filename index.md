@@ -14,9 +14,8 @@ CONTENTS
 ```
 
 ### Machine Learning
-
-```
-CONTENTS
+---
+##### CONTENTS
 1. Course Notes
 1.1. Andrew Ng Machine Learning Course
 1.2. Washington University Machine Learning Course
@@ -25,24 +24,22 @@ CONTENTS
 
 3. PDF File
 
-```
+---
 [Machine Learning Notebook](https://robinxyuanblog.github.io/MachineLearningNotes/)
 
 ### Ruby
 ---
 ##### CONTENTS
-1. Ruby Language
-   [Ruby Basics](https://robinxyuanblog.github.io/RubyBasic/)
-2. Ruby on Rails
-   [Ruby on Rails](https://robinxyuanblog.github.io/RubyOnRailsNotes/)
+1. [Ruby Basics](https://robinxyuanblog.github.io/RubyBasic/)
+2. [Ruby on Rails](https://robinxyuanblog.github.io/RubyOnRailsNotes/)
 ---
 
 ### R Language
-```
-CONTENTS
+---
+##### CONTENTS
 1. R Language
 2. R Projects
-```
+---
 
 ### Data Science
 
