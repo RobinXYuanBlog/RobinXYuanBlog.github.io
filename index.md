@@ -32,6 +32,8 @@ Syntax highlited code block
 
 ### Ruby
 
+[Ruby Basics](https://robinxyuanblog.github.io/RubyBasic/)
+
 ### R Language
 
 ### Data Science
