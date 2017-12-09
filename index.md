@@ -29,13 +29,14 @@ CONTENTS
 [Machine Learning Notebook](https://robinxyuanblog.github.io/MachineLearningNotes/)
 
 ### Ruby
-```
-CONTENTS
+---
+##### CONTENTS
 1. Ruby Language
    [Ruby Basics](https://robinxyuanblog.github.io/RubyBasic/)
 2. Ruby on Rails
    [Ruby on Rails](https://robinxyuanblog.github.io/RubyOnRailsNotes/)
-```
+---
+
 ### R Language
 ```
 CONTENTS
