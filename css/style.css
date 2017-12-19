@@ -311,8 +311,9 @@
 
 	.image {
 		border: 0;
-		display: inline-block;
+		display: block;
 		position: relative;
+		height: 100%;
 	}
 
 		.image:after {
